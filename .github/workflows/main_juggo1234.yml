@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'juggo1234'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fce8b36b54404b909c4b766b9ed13dd4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7fd2c60aefeb4a31b5fb9c95350b781c }}
